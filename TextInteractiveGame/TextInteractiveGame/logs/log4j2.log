@@ -1,0 +1,281 @@
+2021-05-20 17:41:25,461 INFO c.m.Main [main] Program started.
+2021-05-20 17:41:25,471 INFO c.m.Planet [main] Adding direction to Джеда.
+2021-05-20 17:41:25,471 INFO c.m.Planet [main] Adding direction to Татуин.
+2021-05-20 17:41:25,471 INFO c.m.Planet [main] Adding direction to Набу.
+2021-05-20 17:41:25,471 INFO c.m.Planet [main] Adding direction to Дагоба.
+2021-05-20 17:41:25,471 INFO c.m.Planet [main] Adding direction to Джеда.
+2021-05-20 17:41:25,471 INFO c.m.Planet [main] Adding direction to Экзегол.
+2021-05-20 17:41:25,471 INFO c.m.Planet [main] Adding direction to Джеда.
+2021-05-20 17:41:25,471 INFO c.m.Planet [main] Adding direction to Камино.
+2021-05-20 17:41:25,471 INFO c.m.Planet [main] Adding direction to Дагоба.
+2021-05-20 17:41:25,471 INFO c.m.Planet [main] Adding direction to Набу.
+2021-05-20 17:41:25,471 INFO c.m.Menu [main] Launching case menu cycle
+2021-05-20 17:41:25,471 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:41:30,271 INFO c.m.Menu [main] Visual map chosen.
+2021-05-20 17:41:30,271 INFO c.m.Menu [main] Showing visual map.
+2021-05-20 17:41:30,271 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:41:31,851 INFO c.m.Menu [main] Current planet chosen.
+2021-05-20 17:41:31,851 INFO c.m.Menu [main] Showing current planet.
+2021-05-20 17:41:31,851 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:41:34,272 INFO c.m.Menu [main] Check inventory chosen.
+2021-05-20 17:41:34,272 INFO c.m.Menu [main] Showing inventory.
+2021-05-20 17:41:34,272 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:41:35,986 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:41:35,986 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:41:35,995 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:41:39,194 WARN c.m.Menu [main] Wrong chosen planet.
+2021-05-20 17:41:39,195 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:41:42,396 INFO c.m.Menu [main] Find items chosen.
+2021-05-20 17:41:42,396 INFO c.m.Menu [main] Showing planet's inventory.
+2021-05-20 17:41:42,397 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:41:43,222 INFO c.m.Menu [main] Take item chosen.
+2021-05-20 17:41:43,222 INFO c.m.Menu [main] Waiting for input item name.
+2021-05-20 17:41:44,047 INFO c.m.Menu [main] Adding item to player's inventory.
+2021-05-20 17:41:44,047 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:41:44,047 WARN c.m.Inventory [main] The item doesn't exist on planet.
+2021-05-20 17:41:44,047 WARN c.m.Planet [main] Item doesn't exist.
+2021-05-20 17:41:44,047 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:41:45,552 INFO c.m.Menu [main] Take item chosen.
+2021-05-20 17:41:45,552 INFO c.m.Menu [main] Waiting for input item name.
+2021-05-20 17:41:49,822 INFO c.m.Menu [main] Adding item to player's inventory.
+2021-05-20 17:41:49,823 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:41:49,823 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:41:49,823 INFO c.m.Inventory [main] Adding item.
+2021-05-20 17:41:49,823 INFO c.m.Menu [main] Removing item from planet.
+2021-05-20 17:41:49,823 INFO c.m.Planet [main] Removing item from planet.
+2021-05-20 17:41:49,823 INFO c.m.Inventory [main] Removing item.
+2021-05-20 17:41:49,823 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:41:55,069 INFO c.m.Menu [main] Check inventory chosen.
+2021-05-20 17:41:55,069 INFO c.m.Menu [main] Showing inventory.
+2021-05-20 17:41:55,069 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:41:59,599 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:41:59,599 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:41:59,599 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:42:02,592 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:42:02,592 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:42:12,172 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:42:12,172 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:42:12,172 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:42:15,567 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:42:15,567 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:42:22,392 INFO c.m.Menu [main] Take item chosen.
+2021-05-20 17:42:22,392 INFO c.m.Menu [main] Waiting for input item name.
+2021-05-20 17:42:25,302 INFO c.m.Menu [main] Adding item to player's inventory.
+2021-05-20 17:42:25,302 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:42:25,302 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:42:25,302 INFO c.m.Inventory [main] Adding item.
+2021-05-20 17:42:25,302 INFO c.m.Menu [main] Removing item from planet.
+2021-05-20 17:42:25,302 INFO c.m.Planet [main] Removing item from planet.
+2021-05-20 17:42:25,311 INFO c.m.Inventory [main] Removing item.
+2021-05-20 17:42:25,311 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:42:28,921 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:42:28,922 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:42:28,922 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:42:31,462 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:42:31,462 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:42:35,041 INFO c.m.Menu [main] Sword craft chosen
+2021-05-20 17:42:35,041 INFO c.m.Menu [main] Crafting a light saber.
+2021-05-20 17:42:35,041 WARN c.m.CraftSword [main] Hasn't workbench on the planet.
+2021-05-20 17:42:35,041 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:42:37,561 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:42:37,561 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:42:37,561 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:42:39,861 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:42:39,871 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:42:42,561 INFO c.m.Menu [main] Find items chosen.
+2021-05-20 17:42:42,561 INFO c.m.Menu [main] Showing planet's inventory.
+2021-05-20 17:42:42,561 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:42:47,212 INFO c.m.Menu [main] Take item chosen.
+2021-05-20 17:42:47,212 INFO c.m.Menu [main] Waiting for input item name.
+2021-05-20 17:42:49,282 INFO c.m.Menu [main] Adding item to player's inventory.
+2021-05-20 17:42:49,282 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:42:49,282 WARN c.m.Planet [main] Item isn't movable.
+2021-05-20 17:42:49,282 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:42:53,111 INFO c.m.Menu [main] Find items chosen.
+2021-05-20 17:42:53,111 INFO c.m.Menu [main] Showing planet's inventory.
+2021-05-20 17:42:53,111 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:42:57,311 INFO c.m.Menu [main] Sword craft chosen
+2021-05-20 17:42:57,311 INFO c.m.Menu [main] Crafting a light saber.
+2021-05-20 17:42:57,311 WARN c.m.CraftSword [main] Hasn't necessary items.
+2021-05-20 17:42:57,311 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:01,371 INFO c.m.Menu [main] Check inventory chosen.
+2021-05-20 17:43:01,371 INFO c.m.Menu [main] Showing inventory.
+2021-05-20 17:43:01,371 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:05,072 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:43:05,072 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:43:05,072 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:43:07,142 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:43:07,142 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:09,782 INFO c.m.Menu [main] Find items chosen.
+2021-05-20 17:43:09,782 INFO c.m.Menu [main] Showing planet's inventory.
+2021-05-20 17:43:09,782 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:10,441 INFO c.m.Menu [main] Take item chosen.
+2021-05-20 17:43:10,441 INFO c.m.Menu [main] Waiting for input item name.
+2021-05-20 17:43:13,493 INFO c.m.Menu [main] Adding item to player's inventory.
+2021-05-20 17:43:13,493 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:43:13,493 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:43:13,493 INFO c.m.Inventory [main] Adding item.
+2021-05-20 17:43:13,493 INFO c.m.Menu [main] Removing item from planet.
+2021-05-20 17:43:13,493 INFO c.m.Planet [main] Removing item from planet.
+2021-05-20 17:43:13,493 INFO c.m.Inventory [main] Removing item.
+2021-05-20 17:43:13,493 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:14,411 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:43:14,411 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:43:14,411 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:43:16,902 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:43:16,902 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:18,831 INFO c.m.Menu [main] Sword craft chosen
+2021-05-20 17:43:18,831 INFO c.m.Menu [main] Crafting a light saber.
+2021-05-20 17:43:18,832 INFO c.m.CraftSword [main] Removing saber components.
+2021-05-20 17:43:18,832 INFO c.m.Inventory [main] Removing item.
+2021-05-20 17:43:18,832 INFO c.m.Inventory [main] Removing item.
+2021-05-20 17:43:18,832 INFO c.m.Inventory [main] Removing item.
+2021-05-20 17:43:18,832 INFO c.m.CraftSword [main] Adding light saber to player.
+2021-05-20 17:43:18,832 INFO c.m.Inventory [main] Adding item.
+2021-05-20 17:43:18,833 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:22,832 INFO c.m.Menu [main] Boss slaying chosen.
+2021-05-20 17:43:22,832 INFO c.m.Menu [main] Fighting with boss.
+2021-05-20 17:43:22,832 WARN c.m.Menu [main] Wrong planet.
+2021-05-20 17:43:22,832 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:26,208 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:43:26,209 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:43:26,209 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:43:31,111 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:43:31,111 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:36,187 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:43:36,187 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:43:36,187 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:43:40,121 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:43:40,121 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:41,133 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:43:41,133 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:43:41,134 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:43:44,292 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:43:44,292 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:45,021 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:43:45,021 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:43:45,021 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:43:46,631 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:43:46,631 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:47,931 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:43:47,931 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:43:47,931 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:43:50,291 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:43:50,291 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:51,911 INFO c.m.Menu [main] Boss slaying chosen.
+2021-05-20 17:43:51,911 INFO c.m.Menu [main] Fighting with boss.
+2021-05-20 17:43:51,911 WARN c.m.Menu [main] Hasn't providence.
+2021-05-20 17:43:51,911 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:43:58,460 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:43:58,460 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:43:58,460 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:44:00,440 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:44:00,440 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:03,752 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:44:03,752 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:44:03,752 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:44:06,432 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:44:06,432 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:07,361 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:44:07,361 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:44:07,361 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:44:11,661 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:44:11,661 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:12,395 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:44:12,395 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:44:12,396 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:44:14,151 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:44:14,151 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:15,987 INFO c.m.Menu [main] Find items chosen.
+2021-05-20 17:44:15,987 INFO c.m.Menu [main] Showing planet's inventory.
+2021-05-20 17:44:15,987 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:17,342 INFO c.m.Menu [main] Take item chosen.
+2021-05-20 17:44:17,342 INFO c.m.Menu [main] Waiting for input item name.
+2021-05-20 17:44:23,995 INFO c.m.Menu [main] Adding item to player's inventory.
+2021-05-20 17:44:23,995 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:44:23,995 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:44:23,996 INFO c.m.Inventory [main] Adding item.
+2021-05-20 17:44:23,996 INFO c.m.Menu [main] Removing item from planet.
+2021-05-20 17:44:23,996 INFO c.m.Planet [main] Removing item from planet.
+2021-05-20 17:44:23,996 INFO c.m.Inventory [main] Removing item.
+2021-05-20 17:44:23,998 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:25,296 INFO c.m.Menu [main] Take item chosen.
+2021-05-20 17:44:25,296 INFO c.m.Menu [main] Waiting for input item name.
+2021-05-20 17:44:30,211 INFO c.m.Menu [main] Adding item to player's inventory.
+2021-05-20 17:44:30,211 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:44:30,211 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:44:30,211 INFO c.m.Inventory [main] Adding item.
+2021-05-20 17:44:30,211 INFO c.m.Menu [main] Removing item from planet.
+2021-05-20 17:44:30,211 INFO c.m.Planet [main] Removing item from planet.
+2021-05-20 17:44:30,211 INFO c.m.Inventory [main] Removing item.
+2021-05-20 17:44:30,211 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:31,431 INFO c.m.Menu [main] Take item chosen.
+2021-05-20 17:44:31,431 INFO c.m.Menu [main] Waiting for input item name.
+2021-05-20 17:44:39,393 INFO c.m.Menu [main] Adding item to player's inventory.
+2021-05-20 17:44:39,393 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:44:39,393 INFO c.m.Planet [main] Picking up item from the planet
+2021-05-20 17:44:39,393 INFO c.m.Inventory [main] Adding item.
+2021-05-20 17:44:39,394 INFO c.m.Menu [main] Removing item from planet.
+2021-05-20 17:44:39,394 INFO c.m.Planet [main] Removing item from planet.
+2021-05-20 17:44:39,394 INFO c.m.Inventory [main] Removing item.
+2021-05-20 17:44:39,394 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:41,162 INFO c.m.Menu [main] Check inventory chosen.
+2021-05-20 17:44:41,162 INFO c.m.Menu [main] Showing inventory.
+2021-05-20 17:44:41,162 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:46,321 INFO c.m.Menu [main] Boss slaying chosen.
+2021-05-20 17:44:46,321 INFO c.m.Menu [main] Fighting with boss.
+2021-05-20 17:44:46,321 WARN c.m.Menu [main] Wrong planet.
+2021-05-20 17:44:46,321 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:47,432 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:44:47,432 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:44:47,432 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:44:49,480 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:44:49,480 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:50,391 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:44:50,391 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:44:50,391 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:44:58,081 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:44:58,081 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:44:58,621 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:44:58,621 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:44:58,621 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:45:00,321 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:45:00,321 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:45:01,082 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:45:01,082 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:45:01,082 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:45:03,387 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:45:03,387 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:45:10,591 INFO c.m.Menu [main] Boss slaying chosen.
+2021-05-20 17:45:10,591 INFO c.m.Menu [main] Fighting with boss.
+2021-05-20 17:45:10,591 WARN c.m.Menu [main] Boss killed.
+2021-05-20 17:45:10,591 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:45:16,592 INFO c.m.Menu [main] Leave chosen.
+2021-05-20 17:45:16,592 INFO c.m.Main [main] Program ended.
+2021-05-20 17:45:16,592 INFO c.m.Main [main] -----------------------------------------------------
+2021-05-20 17:45:24,834 INFO c.m.Main [main] Program started.
+2021-05-20 17:45:24,843 INFO c.m.Planet [main] Adding direction to Джеда.
+2021-05-20 17:45:24,843 INFO c.m.Planet [main] Adding direction to Татуин.
+2021-05-20 17:45:24,843 INFO c.m.Planet [main] Adding direction to Набу.
+2021-05-20 17:45:24,844 INFO c.m.Planet [main] Adding direction to Дагоба.
+2021-05-20 17:45:24,844 INFO c.m.Planet [main] Adding direction to Джеда.
+2021-05-20 17:45:24,844 INFO c.m.Planet [main] Adding direction to Экзегол.
+2021-05-20 17:45:24,844 INFO c.m.Planet [main] Adding direction to Джеда.
+2021-05-20 17:45:24,844 INFO c.m.Planet [main] Adding direction to Камино.
+2021-05-20 17:45:24,844 INFO c.m.Planet [main] Adding direction to Дагоба.
+2021-05-20 17:45:24,844 INFO c.m.Planet [main] Adding direction to Набу.
+2021-05-20 17:45:24,846 INFO c.m.Menu [main] Launching case menu cycle
+2021-05-20 17:45:24,847 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:45:27,606 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:45:27,606 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:45:27,611 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:45:29,172 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:45:29,174 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:45:31,161 INFO c.m.Menu [main] Change planet chosen.
+2021-05-20 17:45:31,161 INFO c.m.Menu [main] Showing available planets.
+2021-05-20 17:45:31,161 INFO c.m.Menu [main] Waiting for input planet name.
+2021-05-20 17:45:35,291 INFO c.m.Menu [main] Changing player's planet.
+2021-05-20 17:45:35,291 INFO c.m.Menu [main] Menu opening.
+2021-05-20 17:45:37,741 INFO c.m.Menu [main] Leave chosen.
+2021-05-20 17:45:37,741 INFO c.m.Main [main] Program ended.
+2021-05-20 17:45:37,741 INFO c.m.Main [main] -----------------------------------------------------
